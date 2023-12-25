@@ -1,0 +1,11 @@
+import { Component } from '@angular/core';
+import * as i0 from "@angular/core";
+export class VerticalLineComponent {
+    static { this.ɵfac = i0.ɵɵngDeclareFactory({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: VerticalLineComponent, deps: [], target: i0.ɵɵFactoryTarget.Component }); }
+    static { this.ɵcmp = i0.ɵɵngDeclareComponent({ minVersion: "14.0.0", version: "16.2.12", type: VerticalLineComponent, selector: "vertical-line", ngImport: i0, template: "<div class=\"universal-editor-vertical-line\"></div>\n", styles: [".universal-editor-vertical-line{border-left:2px solid gray;height:25px;margin:0 10px}\n"] }); }
+}
+i0.ɵɵngDeclareClassMetadata({ minVersion: "12.0.0", version: "16.2.12", ngImport: i0, type: VerticalLineComponent, decorators: [{
+            type: Component,
+            args: [{ selector: 'vertical-line', template: "<div class=\"universal-editor-vertical-line\"></div>\n", styles: [".universal-editor-vertical-line{border-left:2px solid gray;height:25px;margin:0 10px}\n"] }]
+        }] });
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoidmVydGljYWwtbGluZS5jb21wb25lbnQuanMiLCJzb3VyY2VSb290IjoiIiwic291cmNlcyI6WyIuLi8uLi8uLi8uLi8uLi8uLi9wcm9qZWN0cy9uZ3gtdW5pdmVyc2FsLWVkaXRvci9zcmMvbGliL2NvbXBvbmVudHMvdmVydGljYWwtbGluZS92ZXJ0aWNhbC1saW5lLmNvbXBvbmVudC50cyIsIi4uLy4uLy4uLy4uLy4uLy4uL3Byb2plY3RzL25neC11bml2ZXJzYWwtZWRpdG9yL3NyYy9saWIvY29tcG9uZW50cy92ZXJ0aWNhbC1saW5lL3ZlcnRpY2FsLWxpbmUuY29tcG9uZW50Lmh0bWwiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEsT0FBTyxFQUFFLFNBQVMsRUFBRSxNQUFNLGVBQWUsQ0FBQzs7QUFPMUMsTUFBTSxPQUFPLHFCQUFxQjsrR0FBckIscUJBQXFCO21HQUFyQixxQkFBcUIscURDUGxDLHdEQUNBOzs0RkRNYSxxQkFBcUI7a0JBTGpDLFNBQVM7K0JBQ0UsZUFBZSIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IENvbXBvbmVudCB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xuXG5AQ29tcG9uZW50KHtcbiAgc2VsZWN0b3I6ICd2ZXJ0aWNhbC1saW5lJyxcbiAgdGVtcGxhdGVVcmw6ICcuL3ZlcnRpY2FsLWxpbmUuY29tcG9uZW50Lmh0bWwnLFxuICBzdHlsZVVybHM6IFsnLi92ZXJ0aWNhbC1saW5lLmNvbXBvbmVudC5jc3MnXVxufSlcbmV4cG9ydCBjbGFzcyBWZXJ0aWNhbExpbmVDb21wb25lbnQge1xuXG59XG4iLCI8ZGl2IGNsYXNzPVwidW5pdmVyc2FsLWVkaXRvci12ZXJ0aWNhbC1saW5lXCI+PC9kaXY+XG4iXX0=
